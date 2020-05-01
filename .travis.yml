@@ -2,3 +2,4 @@ language: javascript
 deploy:
   provider: heroku
   api_key: dab36c88-cd99-487a-807f-77cf698a1904
+  app: hello-dana-app
